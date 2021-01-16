@@ -1,0 +1,4 @@
+#Sat Jan 16 05:28:40 EST 2021
+base.0=/home/f002tf4/PromptAlarm/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
